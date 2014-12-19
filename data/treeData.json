@@ -1,0 +1,104 @@
+[
+    {
+      "text": "QUALITY AREA",
+      "cls": null,
+      "expanded": false,
+      "checked": false,
+      "leaf": false,
+      "children": [
+        {
+          "text": "JUNIOR A",
+          "cls": null,
+          "expanded": false,
+          "checked": false,
+          "leaf": true,
+          "children": null
+        }
+      ]
+    },
+    {
+      "text": "HUMAN RESOURCES",
+      "cls": null,
+      "expanded": false,
+      "checked": false,
+      "leaf": false,
+      "children": [
+        {
+          "text": "SENIOR C",
+          "cls": null,
+          "expanded": false,
+          "checked": false,
+          "leaf": true,
+          "children": null
+        }
+      ]
+    },
+    {
+      "text": "IT DEPARTMENT",
+      "cls": null,
+      "expanded": false,
+      "checked": false,
+      "leaf": false,
+      "children": [
+        {
+          "text": "JUNIOR E",
+          "cls": null,
+          "expanded": false,
+          "checked": false,
+          "leaf": true,
+          "children": null
+        }
+      ]
+    },
+    {
+      "text": "TRAINING",
+      "cls": null,
+      "expanded": false,
+      "checked": false,
+      "leaf": false,
+      "children": [
+        {
+          "text": "JUNIOR F",
+          "cls": null,
+          "expanded": false,
+          "checked": false,
+          "leaf": true,
+          "children": null
+        }
+      ]
+    },
+    {
+      "text": "BENEFITS & COMP",
+      "cls": null,
+      "expanded": false,
+      "checked": false,
+      "leaf": false,
+      "children": [
+        {
+          "text": "SENIOR D",
+          "cls": null,
+          "expanded": false,
+          "checked": false,
+          "leaf": true,
+          "children": null
+        }
+      ]
+    },
+    {
+      "text": "ADMIN",
+      "cls": null,
+      "expanded": false,
+      "checked": false,
+      "leaf": false,
+      "children": [
+        {
+          "text": "CHIEF A",
+          "cls": null,
+          "expanded": false,
+          "checked": false,
+          "leaf": true,
+          "children": null
+        }
+      ]
+    }
+  ],
